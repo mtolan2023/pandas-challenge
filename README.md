@@ -1,4 +1,7 @@
 # pandas-challenge
+
+## School District performance analysis using Python/Pandas
+
 This repo contains a project titled: PyCitySchools, which uses that data from schools_complete.csv and students_complete.csv files (located in Resources folder) to generate a Jupyter Notebook with summaries and insights about the District High Schools
 
 The PyCity Schools Notebook contains:
